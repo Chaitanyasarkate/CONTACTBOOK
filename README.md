@@ -7,7 +7,6 @@
 It allows users to **add**, **view**, **update**, and **delete** contact details, making it a useful tool for personal or small business contact management.
 
 ## Features
-
 - Add new contacts with details like **name**, **phone number**, and **email address**.
 - View all stored contacts.
 - Update existing contact information.
@@ -15,7 +14,6 @@ It allows users to **add**, **view**, **update**, and **delete** contact details
 - Search for contacts by name.
 
 ## Installation
-
 1. Clone the repository:
 ```bash
 git clone https://github.com/Chaitanyasarkate/CONTACTBOOK.git
@@ -40,7 +38,6 @@ python app.py
 ```
 
 ## Usage
-
 Once the application is running, you can interact through the command line:
 
 * `add` – Add a new contact
